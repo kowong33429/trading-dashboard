@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import pyodbc
 
+
 # 1. ตั้งค่าหน้าเพจให้กว้างสุด
 st.set_page_config(page_title="Crypto Gem Dashboard", page_icon="🚀", layout="wide")
 
