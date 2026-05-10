@@ -4,6 +4,6 @@ numpy
 scikit-learn
 seaborn
 pandas-ta
-# tensorflow
+tensorflow
 streamlit 
 pyodbc
